@@ -109,7 +109,7 @@
                             <outputDirectory>${project.build.directory}/classes/static/</outputDirectory>
                             <resources>
                                 <resource>
-                                    <directory>${project.parent.basedir}/kursovaya-front/dist/kursovaya-front/browser/</directory>
+                                    <directory>D:/kursachDanila/restoran-front/dist/restoran-front/browser/</directory>
                                 </resource>
                                 <includes>
                                     <include>**/*</include>
